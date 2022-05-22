@@ -55,17 +55,19 @@ urlpatterns for students = [ path('dashboard/'),  path('modules/view/<int:pk>/')
 
 ## Examples of Website UI (from the owner point of view).
 
-images/1a.png
+![This is an image](https://github.com/appsaprinsky/minemoodle/blob/main/images/1a.png)
 
+![This is an image](https://github.com/appsaprinsky/minemoodle/blob/main/images/2a.png)
 
+![This is an image](https://github.com/appsaprinsky/minemoodle/blob/main/images/3a.png)
 
+![This is an image](https://github.com/appsaprinsky/minemoodle/blob/main/images/4a.png)
 
+![This is an image](https://github.com/appsaprinsky/minemoodle/blob/main/images/5a.png)
 
+![This is an image](https://github.com/appsaprinsky/minemoodle/blob/main/images/6a.png)
 
-
-
-
-
+![This is an image](https://github.com/appsaprinsky/minemoodle/blob/main/images/7a.png)
 
 
 
